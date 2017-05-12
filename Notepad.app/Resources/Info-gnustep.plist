@@ -1,0 +1,19 @@
+{
+    ApplicationDescription = "Simple text editor featuring tabs";
+    ApplicationIcon = AppIcon.tiff;
+    ApplicationName = Notepad;
+    ApplicationRelease = 0.1;
+    Authors = (
+	"Thomas F\U00FChringer"
+    );
+    Copyright = "Copyright \U00A9 2010";
+    CopyrightDescription = "Released under the terms of the GPL";
+    FullVersionID = 0.1;
+    GSMainMarkupFile = "";
+    NOTE = "Automatically generated, do not edit!";
+    NSExecutable = Notepad;
+    NSIcon = AppIcon.tiff;
+    NSMainNibFile = "";
+    NSPrincipalClass = NSApplication;
+    URL = "";
+}

@@ -1,0 +1,13 @@
+{
+   ApplicationDescription = "Simple text editor featuring tabs";
+   ApplicationIcon = "AppIcon.tiff";
+   NSIcon = "AppIcon.tiff";
+   ApplicationName = Notepad;
+   ApplicationRelease = 0.1;
+   Authors = ("Thomas Führinger");
+   Copyright = "Copyright © 2010";
+   CopyrightDescription = "Released under the terms of the GPL";
+   FullVersionID = 0.1;
+   URL = "";
+}
+

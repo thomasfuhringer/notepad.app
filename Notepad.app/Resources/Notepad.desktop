@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Version=0.94
+Categories=GNUstep
+Name=Notepad
+Comment=Simple text editor featuring tabs
+Icon=AppIcon.tiff
+Exec=openapp Notepad.app
+#TryExec=Notepad.app
+FilePattern=Notepad.app;Notepad
